@@ -22,7 +22,7 @@ In your `pubspec.yaml` file, add the following dependency:
 
 ```yaml
 dependencies:
-  slide_to_submit: ^1.0.0
+  slide_to_submit_button: ^1.0.3
 ```
 
 Then, run:
