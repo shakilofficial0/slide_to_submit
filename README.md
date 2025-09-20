@@ -39,7 +39,7 @@ Here's a simple example of how to use the `SlideToSubmit`:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:slide_to_submit/slide_to_submit.dart';
+import 'package:slide_to_submit_button/slide_to_submit_button.dart';
 
 void main() {
   runApp(const MyApp());
